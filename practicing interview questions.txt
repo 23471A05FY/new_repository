@@ -1,0 +1,25 @@
+1)what is python and what are the benifits of a python?
+Python is a programming language with objects,modules,threads,exceptions and automatic memory management.
+the benifits of a python:
+1)easy and simple
+2)portable
+3)extensible
+4)built in data structure 
+5)open source.
+
+2)what is PEP 8?
+pep 8 is a coding conversion,set of recommanadation,about how to write a python code more readable.
+
+3)
+
+4)why python is interpreted?
+pyhton is high level programming language,python converts directly from the source code.these source code written by the programmer and it can be converted into intermediate language.it again converted into machine code and excecuted by the python.
+
+
+6)What are the tools that help to find bugs or perform static analysis?
+Pychecker is a satatic analysis tool it can detect the bugs in the python and warn style and complexity of a bug.pylint
+is analysis tool verifies the module meets the coding  standard.
+ 
+7)what is python decorator?
+python decorator is a specific change that we can make python systax to alter functions easily.
+
